@@ -16,7 +16,7 @@ h2{
     height: 100vh;
     padding: 0 30px;
     /* background-color: blueviolet; */
-    background-image: url(../img/top-banner.png);
+    background-image: url(img/top-banner.png);
     background-repeat: no-repeat;
     display: flex;
 }
@@ -51,7 +51,7 @@ h2{
 .dream-container{
     display: flex;
     /* background-color: blueviolet; */
-    background-image: url(../img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     color: #30336b;
