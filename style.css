@@ -19,8 +19,8 @@ h1{
 }
 
 .half-width{
-    width: 40%;
-    margin: 50px auto;
+    width: 36%;
+    margin: 20px auto;
 }
 .half-width p{
     text-align: justify;
@@ -28,7 +28,6 @@ h1{
 }
 .header-img{
     width: 100%;
-    height: 90%;
 }
 
 .link-button{
@@ -40,4 +39,15 @@ h1{
     color: white;
     font-size: 16px;
     font-weight: bold;
+}
+
+
+.dream-container{
+    display: flex;
+    /* background-color: blueviolet; */
+    background-image: url(/img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    color: #30336b;
+
 }
